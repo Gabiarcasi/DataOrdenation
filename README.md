@@ -26,4 +26,6 @@ Ao clicar duas vezes em uma linha de dados de imagem, a imagem é transformada d
 .
 Este trabalho fornece uma visão detalhada do design e implementação do sistema, bem como uma análise dos resultados obtidos. Ele destaca a importância dos algoritmos de ordenação no gerenciamento eficiente de dados e demonstra como a análise de desempenho pode ser usada para otimizar a eficiência de um sistema. Além disso, o trabalho também discute as lições apren- didas durante o desenvolvimento do sistema e oferece sugestões para trabalhos futuros.
 
-<img src="images/Interface Gráfica/tela.png">
+# Interface Gráfica Inicial:
+
+<img src="Images/Interface Gráfica/tela.png">
